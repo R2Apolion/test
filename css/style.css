@@ -1,0 +1,19 @@
+
+body div div#cuadroMayor{
+    background-color: brown;
+    border: 15px;
+    border-color: black;
+    border-radius: 15px;
+
+}
+
+img{
+    align-content: center;
+    height: 50%;
+    size: 50%;
+    width: 50%;
+}
+
+data-spy{
+    position: relative;
+}
